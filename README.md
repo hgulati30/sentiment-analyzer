@@ -11,13 +11,19 @@ Before you begin, ensure you have met the following requirements:
 To install Sentiment Analyzer, follow these steps:
 
 ```
-git clone 
+git clone https://github.com/hgulati30/sentiment-analyzer.git
 ```
 
 ## Using Sentiment Analyzer
 
 To use Sentiment Analyzer, follow these steps:
 
+Install node modules
+```
+npm install
+```
+
+Run Node.js server
 ```
 npm start
 ```
